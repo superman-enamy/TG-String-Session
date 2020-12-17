@@ -17,7 +17,7 @@ This is Pyrogram's String Session Generator Bot. I will generate String Session 
 
 By @B0RNTOLE4RN
 
-Now send your `API_ID` same as `APP_ID` to Start Generating Session."""
+Now send your `API_ID` same as `APP_ID` to Start Generating Session. If You Don't have Go to @tglogin_bot and Genrate."""
 HASH_TEXT = "Now send your `API_HASH`.\n\nPress /cancel to Cancel Task."
 PHONE_NUMBER_TEXT = (
     "Now send your Telegram account's Phone number in International Format. \n"
